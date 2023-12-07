@@ -1,7 +1,7 @@
 name: numhelpers
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: NumHelpers is a Dart extension that is highly influenced by https://laravel.com/docs/10.x/helpers#numbers provides convenient methods for formatting numbers in various ways, including abbreviations, human-readable formats, currency formatting, percentage formatting, and file size conversion. This extension is particularly useful in Flutter applications where such number formatting is a common requirement.
+version: 1.0.0
+repository: https://github.com/westdabestdb/flutter-numhelpers
 
 environment:
   sdk: '>=3.1.4 <4.0.0'
